@@ -39,3 +39,4 @@ function removeFirstCat(){
     const catsCopy = cats.slice(1);
     return catsCopy;
 }
+
